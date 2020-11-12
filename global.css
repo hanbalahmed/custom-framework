@@ -173,6 +173,16 @@
   color: black;
 }
 
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a,
+.btn-light a {
+  color: ivory;
+}
+
 .bg-indigo-100 {
   background-color: rgb(229, 211, 241);
 }
@@ -211,4 +221,106 @@
 
 .bg-blue-500 {
   background-color: rgb(6, 11, 39);
+}
+
+/* text colors */
+.text-indigo-100 {
+  color: rgb(229, 211, 241);
+}
+
+.text-indigo-200 {
+  color: rgb(140, 87, 177);
+}
+
+.text-indigo-300 {
+  color: rgb(64, 26, 92);
+}
+
+.text-indigo-400 {
+  color: rgb(48, 10, 75);
+}
+
+.text-indigo-500 {
+  color: rgb(25, 6, 39);
+}
+
+.text-blue-100 {
+  color: rgb(211, 213, 241);
+}
+
+.text-blue-200 {
+  color: rgb(87, 111, 177);
+}
+
+.text-blue-300 {
+  color: rgb(26, 38, 92);
+}
+
+.text-blue-400 {
+  color: rgb(10, 20, 75);
+}
+
+.text-blue-500 {
+  color: rgb(6, 11, 39);
+}
+
+/* sizes */
+.small:hover {
+  transform: scale(0.89);
+}
+
+/* text-sizes */
+.lead {
+  font-size: 1rem;
+}
+
+.sm {
+  font-size: 1rem;
+}
+
+.md {
+  font-size: 2rem;
+}
+
+.lg {
+  font-size: 3rem;
+}
+
+.xl {
+  font-size: 4rem;
+}
+
+/* images height */
+.h-2 {
+  height: 78px;
+  width: 80px;
+}
+
+/* border radius */
+.rounded-1 {
+  border-radius: 3px;
+}
+
+.rounded-2 {
+  border-radius: 7px;
+}
+
+.rounded-3 {
+  border-radius: 12px;
+}
+
+.rounded-4 {
+  border-radius: 15px;
+}
+
+.rounded-5 {
+  border-radius: 20px;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}
+
+.rounded {
+  border-radius: 0.25rem;
 }
