@@ -31,7 +31,7 @@
   box-shadow: 0 3px 10px rgb(143, 134, 134);
   padding: 20px;
   margin: 10px;
-  color: var(--dark);
+  color: /*var(--dark)*/ #333;
 }
 
 .btn {
