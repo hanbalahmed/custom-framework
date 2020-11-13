@@ -313,6 +313,11 @@
   width: 80px;
 }
 
+.h-10 {
+  min-height: 300px;
+  min-width: 300px;
+}
+
 /* border radius */
 .rounded-1 {
   border-radius: 3px;
