@@ -350,3 +350,13 @@
 a { text-decoration: none; }
 
 .underline { text-decoration: underline; }
+
+/* wrappers */
+.flex-wrapper {
+  flex-wrap: wrap;
+}
+
+/* gaps */
+.gap-1 {
+  gap: 2rem;
+}
