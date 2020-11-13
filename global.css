@@ -341,3 +341,7 @@
 .rounded {
   border-radius: 0.25rem;
 }
+
+a { text-decoration: none; }
+
+.underline { text-decoration: underline; }
