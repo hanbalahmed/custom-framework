@@ -4,4 +4,4 @@
 
 to use this framwork you need to clone this repository using 
 
-`git clone https://github.com/hanbalahmed/zss-framework.git` .
+`git clone https://github.com/hanbalahmed/zss-framework.git` 
