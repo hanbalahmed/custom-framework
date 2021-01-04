@@ -4,6 +4,6 @@
 
 to use this framwork you need to clone this repository using 
 
-`git clone https://github.com/hanbalahmed/zss-framework.git` 
+`git clone https://github.com/hanbalahmed/custom-framework.git` 
 
-or use the [cdn](https://infallible-ramanujan-e49975.netlify.app/global.css)
+or use the [cdn](https://codewithhanbal-framework.netlify.app/global.css)
