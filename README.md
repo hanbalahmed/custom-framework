@@ -8,4 +8,6 @@ to use this framwork you need to clone this repository using
 
 or use the cdn
 
-`https://codewithhanbal-framework.netlify.app/global.css`
+```html
+ <link rel="stylesheet" href="https://codewithhanbal-framework.netlify.app/global.css" />
+```
