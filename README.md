@@ -1,8 +1,8 @@
 # custom framework
 
-### use this framwork to create awesome websites!
+### use this framework to create awesome websites!
 
-to use this framwork you need to clone this repository using 
+to use this framework you need to clone this repository using 
 
 `git clone https://github.com/hanbalahmed/custom-framework.git` 
 
