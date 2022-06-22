@@ -12,4 +12,4 @@ or use the cdn
  <link rel="stylesheet" href="https://codewithhanbal-framework.netlify.app/global.css" />
 ```
 
-### If You Want To Edit It send it to me and i might just add it
+### If You Want To Edit It send it to me and i might just update it
